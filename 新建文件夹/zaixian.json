@@ -1,0 +1,160 @@
+{
+  "urls": [
+        {
+            "url": "https://9877.kstore.space/AnotherDS/movie.json",
+            "name": "影视"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/anime.json",
+            "name": "动漫"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/other.json",
+            "name": "文艺"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/sport.json",
+            "name": "体育"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/education.json",
+            "name": "教育"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/webcast.json",
+            "name": "直播"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/magnet.json",
+            "name": "磁力"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/cloud.json",
+            "name": "云盘"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "ok"
+        },
+        {
+            "url": "http://ok321.top/ok",
+            "name": "ok备用"
+        },
+        {
+            "url": "http://www.饭太硬.net/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬备用1"
+        },
+        {
+            "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+            "name": "饭太硬备用2"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "王二小放牛娃"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherD/api.json",
+            "name": "潇洒"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "name": "小虎版"
+        },
+        {
+            "url": "https://欧歌.v.nxog.top/m/",
+            "name": "欧歌"
+        },
+        {
+            "url": "http://tv.nxog.top/m",
+            "name": "欧歌备用"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "name": "📢欧歌家庭线路1📢"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+            "name": "💚欧歌云盘线路2💚"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
+            "name": "💖欧歌学习线路3💖"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/m/333.php?ou=公众号欧歌app&mz=1&jar=index&321&b=欧歌",
+            "name": "👇下面欧歌收集网络线路👇"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.jsonv",
+            "name": "香雅晴"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "鱼儿"
+        },
+        {
+            "url": "http://xhztv.top/xhz",
+            "name": "小盒子"
+        },
+        {
+            "url": "http://xhztv.top/4k.json",
+            "name": "小盒子4k"
+        },
+        {
+            "url": "http://fmys.top/fmys.json",
+            "name": "驸马影视"
+        },
+        {
+            "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
+            "name": "ocean2025"
+        },
+        {
+            "url": "https://ztha.top/TVBox/thdjk.json",
+            "name": "挺好分享"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧计"
+        },
+        {
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "传说"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "name": "宝盒"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=2",
+            "name": "光歌"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=3",
+            "name": "🌟3盒子迷线路3🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=6",
+            "name": "🌟6 pg线路6🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=9",
+            "name": "🌟9花生线路9🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=10",
+            "name": "🌟10喵影视线路10🌟"
+        }
+  ]
+}
